@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Marko 👋
 
+## I'm a Software Engineer
+
+- 🔭 I’m currently working on my master thesis
+- 🌱 I’m currently learning Data Science
+- 👯 I’m looking to collaborate on Machine Learning projects
 <!--
 **GameRuiner/GameRuiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
