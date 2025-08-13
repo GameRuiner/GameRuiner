@@ -1,10 +1,12 @@
 ## Hi there, I'm Marko 👋
 
-## I'm a Software Engineer
+**Software Engineer | Machine Learning Enthusiast | Front-End Developer**
 
-- 🔭 I’m currently working on my master thesis
-- 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on Machine Learning projects
+- 🔭 Currently working on the **Errant Dreams** project  
+- 🌱 Deepening my expertise in **software engineering** and **machine learning**  
+- 👯 Open to opportunities as a **Machine Learning Engineer** or **Front-End Developer**  
+- 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/markogolovko/) • [Website](https://markogolovko.com/) • [Email](mailto:markgolovko@gmail.com)
+
 <!--
 **GameRuiner/GameRuiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
