@@ -2,7 +2,7 @@
 
 **Software Engineer | Machine Learning Enthusiast | Front-End Developer**
 
-- 🔭 Currently working on the **Errant Dreams** project  
+- 🔭 Currently focusing on UI/UX and frontend development
 - 🌱 Deepening my expertise in **software engineering** and **machine learning**  
 - 👯 Open to opportunities as a **Machine Learning Engineer** or **Front-End Developer**  
 - 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/markogolovko/) • [Website](https://markogolovko.com/) • [Email](mailto:markgolovko@gmail.com)
