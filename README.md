@@ -1,10 +1,10 @@
 ## Hi there, I'm Marko 👋
 
-**Software Engineer | Machine Learning Enthusiast | Front-End Developer**
+**Software Engineer | Java Developer | Quantitative Finance Enthusiast**
 
-- 🔭 Currently focusing on UI/UX and frontend development
-- 🌱 Deepening my expertise in **software engineering** and **machine learning**  
-- 👯 Open to opportunities as a **Machine Learning Engineer** or **Front-End Developer**  
+- ☕ Software Engineer with a strong focus on Java and backend systems
+- 🧠 Background in building data-driven systems, APIs, and analytical tools
+- 🚀 Enjoy working at the intersection of software engineering and finance
 - 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/markogolovko/) • [Website](https://markogolovko.com/) • [Email](mailto:markgolovko@gmail.com)
 
 <!--
